@@ -1,4 +1,4 @@
-# Task - Text summarization service with Python
+# Text summarization service with Python
 
 ## Current implementation
 - Sumy library for simple text summarization
