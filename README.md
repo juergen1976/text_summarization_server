@@ -2,7 +2,7 @@
 ![](image/book.jpg)
 ## Current implementation
 - Sumy library for simple text summarization
-- Flask for provising a REST endpoint
+- Flask for providing a REST endpoint
 - SQLLite, which is already part of Python
 
 ## Features
